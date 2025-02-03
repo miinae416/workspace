@@ -14,4 +14,4 @@ password = input("비밀번호를 입력하세요: ")
 if validate_password(password):
     print("비밀번호가 유효합니다.")
 else:
-    print("비밀번호가 유효하지 않습니다. 조건을 확인하세요.")
+    print("비밀번호가 유효하지 않습니다. 조건을 확인하세요...")
